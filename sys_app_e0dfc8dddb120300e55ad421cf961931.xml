@@ -7,14 +7,14 @@
         <licensable>true</licensable>
         <license_model>none</license_model>
         <logo/>
-        <menu/>
+        <menu display_value="Property Disaster Update">e1db1373db8a0300e55ad421cf9619e7</menu>
         <name>Property Disaster Update</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_170765_property</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description/>
+        <short_description>user access</short_description>
         <source>x_170765_property</source>
         <store_correlation_id/>
         <store_url/>
@@ -23,12 +23,12 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-11-06 20:56:40</sys_created_on>
         <sys_id>e0dfc8dddb120300e55ad421cf961931</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-11-06 20:56:40</sys_updated_on>
+        <sys_updated_on>2017-11-06 21:12:34</sys_updated_on>
         <template/>
         <trackable>true</trackable>
-        <user_role/>
+        <user_role display_value="u_property_disaster_update_incident_user" name="u_property_disaster_update_incident_user">4ddb5333db8a0300e55ad421cf96199d</user_role>
         <vendor/>
         <vendor_prefix/>
         <version>1.0.0</version>
